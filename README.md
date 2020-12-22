@@ -18,6 +18,7 @@
 ### My Absolute Favorites:
 
 - 💻 &nbsp; I love exploring new tech stack and building cool stuffs.
+- 🎮 &nbsp; I love play old video games.
 
 
 <!--
@@ -26,17 +27,19 @@
 
 ### Projects and Dev Stuffs:
 
-<details>	
+
   <summary><b>⚡ Github Stats</b></summary>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=davi19&show_icons=true&hide_border=true" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davi19&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 
   <summary><b>🧑‍🚀 Open Source Projects</b></summary>
-
+<a href="https://github.com/davi19/storage_capacity">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=davi19&repo=storage_capacity&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="storage_capacity" />
+</a>
   <br />
 
-</details>
+
  
 #
 
