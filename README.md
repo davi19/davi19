@@ -2,11 +2,6 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/davi-campos-gon%C3%A7alves-212439124/)
 
-
-[![](https://gitwar.herokuapp.com/badge?username=davi19&label=Gitwar%20Profile%20Score&style=for-the-badge&color=0088cc)](https://gitwar.herokuapp.com/)
-
-<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
-
 ### Talking about Personal Stuffs:
 
 - 🛠 &nbsp; I’m currently working with Flutter,<br /> Graphql.
@@ -33,7 +28,11 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=davi19&show_icons=true&hide_border=true" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davi19&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
   <br />
-  <summary><b>🧑‍🚀 Open Source Projects</b></summary>
+<div align="center">
+
+### Show some ❤️ by starring some of the repositories!
+
+</div>
     <br />
 <a href="https://github.com/davi19/storage_capacity">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=davi19&repo=storage_capacity&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="storage_capacity" />
@@ -44,8 +43,4 @@
  
 #
 
-<div align="center">
 
-### Show some ❤️ by starring some of the repositories!
-
-</div>
