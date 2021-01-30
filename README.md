@@ -4,7 +4,7 @@
 
 ### Talking about Personal Stuffs:
 
-- 🛠 &nbsp; I’m currently working with Flutter,<br /> Graphql.
+- 🛠 &nbsp; I’m currently working with Ruby on Rails,<br /> Graphql.
 - 🚀 &nbsp; I’m currently learning software architecture.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/davi19).
 - 📫 &nbsp; How to reach me: davi19_19@hotmail.com.
