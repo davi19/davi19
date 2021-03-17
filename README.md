@@ -4,6 +4,7 @@
 
 ### Talking about Personal Stuffs:
 
+- ❤️ &nbsp; To positively impact the largest number of people with my work<br /> 
 - 🛠 &nbsp; I’m currently working with Ruby on Rails<br /> 
 - 🚀 &nbsp; I’m currently learning software architecture.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/davi19).
@@ -24,10 +25,10 @@
 
 
   <summary><b>⚡ Github Stats</b></summary>
-  <br />
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=davi19&show_icons=true&hide_border=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davi19&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
-  <br />
+  <br/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=davi19&count_private=true&show_icons=true&theme=dracula" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davi19&hide=java"/>
+  <br/>
 <div align="center">
 
 ### Show some ❤️ by starring some of the repositories!
@@ -42,5 +43,6 @@
 
  
 #
-
+### Let's do it
+<img height="180em" src="https://media.giphy.com/media/VspTn3CPKAHoA/source.gif" />
 
