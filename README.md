@@ -29,7 +29,7 @@
 <img height="180em" src="https://github-readme-stats-davi19.vercel.app/api?username=davi19&count_private=true&show_icons=true&theme=dracula" />
 <summary><b>🚀 Languages Stats</b></summary>
   <br/>
-<img height="280em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davi19&hide=java"/>
+<img height="280em" src="https://github-readme-stats-davi19.vercel.app/api/top-langs/?username=davi19&hide=java,html,css,SCSS,ASP.NET,Sass&langs_count=20"/>
   <br/>
 <div align="center">
 
