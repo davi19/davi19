@@ -44,10 +44,4 @@
 <div align="center">
 
 </div>
-<a href="https://davi19-19.medium.com/">
-  <img align="center" src="https://github-readme-medium-card.vercel.app/getMediumBlogs?username=davi19-19&limit=1&type=horizontal" alt="Davi Medium" />
-  <br />
-  
-### Let's do it
-<img height="180em" src="https://media.giphy.com/media/VspTn3CPKAHoA/source.gif" />
 
