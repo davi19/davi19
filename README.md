@@ -1,7 +1,6 @@
 ## Hey 👋, I'm [Davi Campos!](https://github.com/davi19/)
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/davi-campos-gon%C3%A7alves-212439124/) [![Medium Badge](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://davi19-19.medium.com/) [![Medium Badge](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://davi19-19.medium.com/)
-
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/davi-campos-gon%C3%A7alves-212439124/) [![Medium Badge](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://davi19-19.medium.com/)
 
 ### Talking about Personal Stuffs:
 
@@ -28,10 +27,6 @@
   <summary><b>⚡ Github Stats</b></summary>
   <br/>
 <img height="180em" src="https://github-readme-stats-davi19.vercel.app/api?username=davi19&count_private=true&show_icons=true&theme=dracula" />
-<summary><b>🚀 Languages Stats</b></summary>
-  <br/>
-<img height="280em" src="https://github-readme-stats-davi19.vercel.app/api/top-langs/?username=davi19&hide=java,html,css,SCSS,ASP.NET,Sass&langs_count=20"/>
-  <br/>
 <div align="center">
 
 ### Show some ❤️
