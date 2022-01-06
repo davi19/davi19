@@ -44,7 +44,16 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=davi19&theme=vue-dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
   
   </div>
-<div align="center">
+    <div align="center">
+
+    
+  <br/>
+      
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davi19&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+
+  
+  
 
 ### Show some ❤️
 
