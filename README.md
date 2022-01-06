@@ -29,32 +29,25 @@
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@davi19-19/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@davi19-19/0" alt="Recent Article 0"> 
 
 
-
-### Projects and Dev Stuffs:
 <div align="center">
   
 ### ⚡ Github Stats
      
  </div>
-  <div align="center">
+  <div>
+   
+      
+      
+<img align="left"  src="http://github-readme-streak-stats.herokuapp.com?user=davi19&theme=vue-dark&date_format=j%20M%5B%20Y%5D" width="500px" />
 
-    
-  <br/>
-    
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=davi19&theme=vue-dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-  
+      
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davi19&layout=compact&theme=dracula" width="420px"/>
+   
+  </div>
   </div>
     <div align="center">
-
-    
   <br/>
-      
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davi19&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
-
-  
-  
-
+     
 ### Show some ❤️
 
 </div>
