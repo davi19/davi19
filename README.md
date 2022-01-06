@@ -38,7 +38,7 @@
    
       
       
-<img align="left"  src="http://github-readme-streak-stats.herokuapp.com?user=davi19&theme=vue-dark&date_format=j%20M%5B%20Y%5D" width="500px" />
+<img align="left"  src="http://github-readme-streak-stats.herokuapp.com?user=davi19&theme=vue-dark&date_format=j%20M%5B%20Y%5D" width="400px" />
 
       
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davi19&layout=compact&theme=dracula" width="400px"/>
