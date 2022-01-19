@@ -25,9 +25,6 @@
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" alt="sass"></code>
 -->
 
-### [![Medium Badge](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://davi19-19.medium.com/)
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@davi19-19/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@davi19-19/0" alt="Recent Article 0"> 
-
 
 <div align="center">
   
