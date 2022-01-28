@@ -9,7 +9,7 @@
 ### Talking about Personal Stuffs:
 
 - ❤️ &nbsp; To positively impact the largest number of people with my work<br /> 
-- 🛠 &nbsp; I’m currently working with Elix<br /> 
+- 🔮  &nbsp; I’m currently working with Elixir<br /> 
 - 🚀 &nbsp; I’m currently learning software architecture.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/davi19).
 - 📫 &nbsp; How to reach me: davi19_19@hotmail.com.
