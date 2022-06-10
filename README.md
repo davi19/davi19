@@ -18,7 +18,7 @@
 
 - 💻 &nbsp; I love exploring new tech stack and building cool stuffs.
 - 👾 &nbsp; I love play old video games.
-- 🐧 &nbsp; Enthusiastic and passionate about the open-source world
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" width="20px" heigth="20px" /> &nbsp; Enthusiastic and passionate about the open-source world
 
 
 <!--
