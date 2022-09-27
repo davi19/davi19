@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/davi-campos-gon%C3%A7alves-212439124/)
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=🐧%20A%20Linux%20fan%20;👾%20In%20love%20with%20retro%20games&font=Fira%20Code&center=true&width=440&height=45&color=40B782&vCenter=true&size=22"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=🐧%20A%20Linux%20fan%20;👾%20%20love%20retro%20games&font=Fira%20Code&center=true&width=440&height=45&color=40B782&vCenter=true&size=22"></a>
 </p>
 
 ### Talking about Personal Stuffs:
