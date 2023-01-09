@@ -28,17 +28,6 @@
 
 <div align="center">
   
-### ⚡ Github Stats
-     
- </div>
-  <div>     
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davi19&layout=compact&theme=dracula" width="400px"/>
-   
-  </div>
-  </div>
-    <div align="center">
-  <br/>
-     
 ### Show some ❤️
 
 </div>
