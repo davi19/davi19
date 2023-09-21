@@ -10,7 +10,7 @@
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/davi19).
 - 📫 &nbsp; How to reach me: davi19_19@hotmail.com.
 
-
+ 
 [![GitHub Streak](https://streak-stats.demolab.com?user=davi19&theme=catppuccin-mocha&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
 <!--
