@@ -1,7 +1,5 @@
 ## Hey 👋, I'm Davi Campos.
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/davi-campos-gon%C3%A7alves-212439124/)
-
 ### Talking about Personal Stuffs:
 
 - ❤️ &nbsp; To positively impact the largest number of people with my work<br /> 
