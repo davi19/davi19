@@ -19,6 +19,9 @@ I’m a software engineer focused on building real-world systems, especially aro
 ### 🔹 LifeDashboard
 A personal backend system (Perl/Dancer2) designed to feed data to low-power devices (ESP32 + e-ink dashboards).
 
+### 🔹 Perl-Vibes  
+A vibe-driven music recommendation engine in Perl that maps free-form text into emotional dimensions (valence & arousal) to suggest songs.
+
 ## 📫 Contact
 Email: davi19_19@hotmail.com
 GitHub: https://github.com/davi19
