@@ -1,9 +1,24 @@
-## Hey, I'm Davi Campos.
+## Hey, I'm Davi Campos
 
+I’m a software engineer focused on building real-world systems, especially around backend, event-driven architectures and hardware integration.
 
-- ❤️ &nbsp; To positively impact the largest number of people with my work<br />
-- <img src="https://github.com/davi19/davi19/assets/9946675/babd02b9-269d-49b5-abb1-715e0bb1918b" alt="drawing" width="24"/> &nbsp; Linux and Open source its my passion<br /> 
-- 🖥️ &nbsp; I’m currently working with Scala<br /> 
-- 👨🏻‍💻 &nbsp; Most of my projects are available here in [Github](https://github.com/davi19).
-- 📫 &nbsp; How to reach me: davi19_19@hotmail.com.
+## 🧠 What I care about:
+* ❤️ Building things that actually impact people
+* 🐧 Linux, open source and low-level systems
+* ⚙️ Simple systems that solve real problems
+* 🔌 Connecting software with the physical world
 
+## What I do
+* Backend development (Scala, APIs, event-driven systems)
+* Experimentation with embedded systems (ESP32, Raspberry Pi)
+* Building personal tools and systems from scratch
+
+## 🧪 Selected projects
+### 🔹 Vortex
+  A real-time animation system running on Raspberry Pi with LED matrix + audio, reacting to Spotify playback events.
+### 🔹 LifeDashboard
+A personal backend system (Perl/Dancer2) designed to feed data to low-power devices (ESP32 + e-ink dashboards).
+
+## 📫 Contact
+Email: davi19_19@hotmail.com
+GitHub: https://github.com/davi19
